@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         Question(q: "The total surface area of two human lungs is approximately 70 square metres.", a: "True"),
         Question(q: "In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.", a: "True"),
         Question(q: "In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.", a: "False"),
-        Question(q: "It is illegal to pee in the Ocean in Portugal.", a: "True"),
+        Question(q: "It is illegal to pee in the sea in Portugal.", a: "True"),
         Question(q: "You can lead a cow down stairs but not up stairs.", a: "False"),
         Question(q: "Google was originally called 'Backrub'.", a: "True"),
         Question(q: "Buzz Aldrin's mother's maiden name was 'Moon'.", a: "True"),
